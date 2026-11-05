@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Pankaj Rudrawar: Terraform modules for cloud storage</title>
+  <desc id="d">Three horizontal bars of decreasing length in amber, blue and violet, representing storage tiers, beside the page title.</desc>
+  <rect width="1200" height="300" rx="14" fill="#101B2D"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="64" y="128" font-size="58" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Pankaj Rudrawar</text>
+    <text x="64" y="182" font-size="30" fill="#C9D6E6">Terraform modules for cloud storage</text>
+    <text x="64" y="232" font-size="20" fill="#8DA0BA">AWS and Azure. Secure defaults, typed inputs, CI validation.</text>
+  </g>
+  <g>
+    <rect x="780" y="78" width="356" height="34" rx="5" fill="#E8A33D"/>
+    <rect x="780" y="128" width="256" height="34" rx="5" fill="#2B8CE0"/>
+    <rect x="780" y="178" width="148" height="34" rx="5" fill="#8E5CD0"/>
+  </g>
+</svg>
